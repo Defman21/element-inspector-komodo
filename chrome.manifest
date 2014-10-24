@@ -1,0 +1,8 @@
+content InspectElement               chrome/content/
+
+skin    InspectElement   classic/1.0 chrome/skin/
+
+overlay	chrome://browser/content/browser.xul	 chrome://InspectElement/content/overlay.xul
+
+locale  InspectElement   en-US       chrome/locale/
+locale  InspectElement   zh-CN       chrome/locale/
